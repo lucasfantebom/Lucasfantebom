@@ -9,18 +9,23 @@
 
 ### 2) Instalar as dependências
 
-- Abrir Terminal/CMD/Prompt de Comando e digital comando abaixo:<br>
+- Abra o Terminal/CMD/Prompt de Comando e digite o comando abaixo:<br>
   `npm install --save-dev`
 
 ### 3) Executar servidor JSON
 
-- No mesmo terminal digitar comando:<br>
+- No mesmo terminal digite comando:<br>
   `json-server --watch vagas-db.json`
 
 ### 4) Executar aplicação Angular
 
-- Abrir nova aba no terminal e digital comando:<br>
+- Abra uma nova aba no terminal e digite o comando:<br>
   `ng serve`
+
+### 5) Visualização no Browser
+
+- Abra seu navegador e insira o endereço:<br>
+  `http://localhost:4200/`
 
 ---
 
