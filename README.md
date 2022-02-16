@@ -23,7 +23,7 @@
 
 ---
 
-# Comandos de instalação
+## Comandos de instalação
 
 ### Instalar Angular
 
