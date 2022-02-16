@@ -4,7 +4,8 @@
 
 ### 1) Clonar o repositório
 
-`git clone https://github.com/matheuscostadesign/lh-angular.git`
+- Clone o repositório para sua máquina executando o comando abaixo:
+  `git clone https://github.com/matheuscostadesign/lh-angular.git`
 
 ### 2) Instalar as dependências
 
