@@ -1,8 +1,10 @@
-# Como executar o projeto?
+<img src=".github/logo-senai.svg" width="160">
+
+## Como executar o projeto?
 
 ### 1) Clonar o repositório
 
-`git clone url`
+`git clone https://github.com/matheuscostadesign/lh-angular.git`
 
 ### 2) Instalar as dependências
 
